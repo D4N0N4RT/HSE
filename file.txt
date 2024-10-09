@@ -1,1 +1,2 @@
 Cleared previous changes. New text
+Added text from second branch
